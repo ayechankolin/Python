@@ -1,0 +1,11 @@
+my_list = iter(["Gu", "Thar", 3, 4, 5])
+print(next(my_list))
+print(next(my_list))
+print(next(my_list))
+
+my_list =  iter(["Gu", "Thar", 3, 4, 5])
+print(next(my_list))
+print(next(my_list))
+print(next(my_list))
+print(next(my_list))
+print(next(my_list))

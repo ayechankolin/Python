@@ -1,0 +1,5 @@
+my_list = iter(["Thar", "Gu", 7, 8, 10])
+print(next(my_list))
+print(next(my_list))
+print(next(my_list))
+print(next(my_list))
